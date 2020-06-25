@@ -1,2 +1,2 @@
-# Demo-design-1
+# Global-media PSD to html
 PSD to HTML converted  Web Html Template
